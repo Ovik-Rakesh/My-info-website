@@ -163,3 +163,25 @@ header {
 }
 
 /* tutorail ends  */
+
+/* feedback statrs */
+#feedback {
+    padding: 5% 10%;
+    background-color: #5eaaa8;
+}
+
+.feedback-img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 5px;
+
+}
+
+.carousel-item {
+    text-align: center;
+    padding: 7% 15%;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+/* feedback ends */
