@@ -185,3 +185,45 @@ header {
 }
 
 /* feedback ends */
+
+/* contact starts */
+#contact {
+    padding: 4% 10%;
+    background-color: #5eaaa8;
+}
+
+.form-group label {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+/* contact ends */
+
+/* footer starts */
+footer {
+    padding: 1% 10%;
+    background-color: #056676;
+}
+
+footer a {
+    color: white;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: black;
+}
+
+/* footer ends */
+
+/* Responsive part  start here*/
+@media (max-width:768px) {
+
+    .nav-link {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+    #ban-h1 {
+        font-size: 2.5rem;
+    }
+}
