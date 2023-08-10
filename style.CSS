@@ -145,3 +145,21 @@ header {
 }
 
 /* About me ends */
+
+/* tutorail starts  */
+#tutorial {
+    padding: 4% 10%;
+    background-color: #a3d2ca;
+}
+
+.card {
+    transition: 0.4s;
+    border: 1px solid #ff02c0;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 2px 6px 5px black;
+}
+
+/* tutorail ends  */
